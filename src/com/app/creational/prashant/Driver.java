@@ -6,7 +6,7 @@ public class Driver {
      * Singleton:There is power in ONE. Let’s say you have an object that contains registry settings.
      * You don’t want multiple copies of that object and its values running around—that would lead to chaos.
      * By using an object like me you can ensure that every object in your application is making use of the same global resource.
-     * 
+     *
      */
     public static void main(String[] args) {
 
